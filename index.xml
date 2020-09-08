@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QAOS</title>
+    <link>http://0gienxxxxx.github.io/</link>
+    <description>Recent content on QAOS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 08 Sep 2020 13:40:42 +0800</lastBuildDate>
+    
+        <atom:link href="http://0gienxxxxx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>First Post</title>
+        <link>http://0gienxxxxx.github.io/posts/first-post/</link>
+        <pubDate>Tue, 08 Sep 2020 13:40:42 +0800</pubDate>
+        
+        <guid>http://0gienxxxxx.github.io/posts/first-post/</guid>
+        <description>QAOS http://0gienxxxxx.github.io/posts/first-post/ -- http://0gienxxxxx.github.io/posts/first-post/ - </description>
+        </item>
+    
+    
+  </channel>
+</rss> 
