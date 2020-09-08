@@ -2,36 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on QAOS</title>
-<<<<<<< HEAD
     <link>http://0gienxxxxx.github.io/posts/</link>
-=======
-    <link>https://0gienxxxxx.github.io/posts/</link>
->>>>>>> Initial Setup
     <description>Recent content in Posts on QAOS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 08 Sep 2020 13:40:42 +0800</lastBuildDate>
     
-<<<<<<< HEAD
 	<atom:link href="http://0gienxxxxx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-=======
-	<atom:link href="https://0gienxxxxx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> Initial Setup
     
     
     <item>
       <title>First Post</title>
-<<<<<<< HEAD
       <link>http://0gienxxxxx.github.io/posts/first-post/</link>
       <pubDate>Tue, 08 Sep 2020 13:40:42 +0800</pubDate>
       
       <guid>http://0gienxxxxx.github.io/posts/first-post/</guid>
-=======
-      <link>https://0gienxxxxx.github.io/posts/first-post/</link>
-      <pubDate>Tue, 08 Sep 2020 13:40:42 +0800</pubDate>
-      
-      <guid>https://0gienxxxxx.github.io/posts/first-post/</guid>
->>>>>>> Initial Setup
       <description></description>
     </item>
     
